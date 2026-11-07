@@ -11,6 +11,7 @@ int main()
     int size = sizeof(arr);
 
     printf("Size of array is %d\n", size);
+    printf("Enter array elements");
 
     printf("Data at index 2 is %d\n", arr[2]);
 }
